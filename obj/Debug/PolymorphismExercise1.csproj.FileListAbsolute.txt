@@ -1,0 +1,7 @@
+C:\Users\Ákos\source\repos\PolymorphismExercise1\PolymorphismExercise1\bin\Debug\PolymorphismExercise1.exe.config
+C:\Users\Ákos\source\repos\PolymorphismExercise1\PolymorphismExercise1\bin\Debug\PolymorphismExercise1.exe
+C:\Users\Ákos\source\repos\PolymorphismExercise1\PolymorphismExercise1\bin\Debug\PolymorphismExercise1.pdb
+C:\Users\Ákos\source\repos\PolymorphismExercise1\PolymorphismExercise1\obj\Debug\PolymorphismExercise1.csprojAssemblyReference.cache
+C:\Users\Ákos\source\repos\PolymorphismExercise1\PolymorphismExercise1\obj\Debug\PolymorphismExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Ákos\source\repos\PolymorphismExercise1\PolymorphismExercise1\obj\Debug\PolymorphismExercise1.exe
+C:\Users\Ákos\source\repos\PolymorphismExercise1\PolymorphismExercise1\obj\Debug\PolymorphismExercise1.pdb
